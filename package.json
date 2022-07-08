@@ -1,0 +1,14 @@
+{
+  "name": "cy_ado",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress run"
+  },
+  "author": "Bushra Alam",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^7.3.0"
+  }
+}
